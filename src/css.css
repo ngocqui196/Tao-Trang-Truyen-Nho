@@ -1,0 +1,42 @@
+body{
+    background-color: lightseagreen;
+}
+h1:hover{
+    background-color: aqua;
+}
+h1 {
+    width: 50%;
+    height: 50%;
+    font-size: 65px;
+    font-family: Arial;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: blue;
+    margin-left: 350px;
+    margin-right: 350px;
+    background-color: aquamarine;
+}
+h2{
+    font-family: Algerian;
+}
+p{
+    font-family: Algerian;
+    font-size: 24px;
+    margin-left: 80px;
+    color: yellow;
+}
+#chuong {
+    background-color: bisque;
+    padding: 10px 20px;
+    margin: 40px 400px 100px 580px;
+}
+#chuong:hover {
+    background-color: dodgerblue;
+}
+option{
+    background-color: cadetblue;
+}
+option:hover{
+    background-color: lightseagreen;
+}
